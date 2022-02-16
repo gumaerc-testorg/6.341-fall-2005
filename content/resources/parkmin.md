@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-341-discrete-time-signal-processing-fall-2005/bbda8309987c86fafab696816bbe9cb4_parkmin.wav
+file: /media/courses/6-341-discrete-time-signal-processing-fall-2005/bbda8309987c86fafab696816bbe9cb4_parkmin.wav
 file_type: audio/x-wav
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Other
 title: parkmin.wav
 uid: bbda8309-987c-86fa-fab6-96816bbe9cb4

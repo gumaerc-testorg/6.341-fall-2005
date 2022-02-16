@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture summary.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-341-discrete-time-signal-processing-fall-2005/4ee39a5e74c9f5099ac516ce57215c96_lec19.pdf
+file: /media/courses/6-341-discrete-time-signal-processing-fall-2005/4ee39a5e74c9f5099ac516ce57215c96_lec19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec19.pdf
 uid: 4ee39a5e-74c9-f509-9ac5-16ce57215c96

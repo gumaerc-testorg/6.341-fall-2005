@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-341-discrete-time-signal-processing-fall-2005/4b9912574517a820662caa69979aab1b_hyunsung.wav
+file: /media/courses/6-341-discrete-time-signal-processing-fall-2005/4b9912574517a820662caa69979aab1b_hyunsung.wav
 file_type: audio/x-wav
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Other
 title: hyunsung.wav
 uid: 4b991257-4517-a820-662c-aa69979aab1b

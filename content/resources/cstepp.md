@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-341-discrete-time-signal-processing-fall-2005/2bfd2affb09fd168a631a75f6d12690b_cstepp.wav
+file: /media/courses/6-341-discrete-time-signal-processing-fall-2005/2bfd2affb09fd168a631a75f6d12690b_cstepp.wav
 file_type: audio/x-wav
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Other
 title: cstepp.wav
 uid: 2bfd2aff-b09f-d168-a631-a75f6d12690b
