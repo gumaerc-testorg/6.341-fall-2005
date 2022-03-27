@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0d6abafb-55bb-d2d0-610e-ff377147d3aa
 resourcetype: Other
 title: mattxmal.wav
 uid: 1be34b62-02ba-70e0-d1d8-c08e4df01792

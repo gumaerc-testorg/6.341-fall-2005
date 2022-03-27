@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0d6abafb-55bb-d2d0-610e-ff377147d3aa
 resourcetype: Other
 title: cfdoming.wav
 uid: 18b69f8d-aec2-dbc1-94bb-1d7e324dfaf1

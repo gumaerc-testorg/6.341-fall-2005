@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0d6abafb-55bb-d2d0-610e-ff377147d3aa
 resourcetype: Other
 title: adk.wav
 uid: 3bfea5ac-ad92-32f5-4a6c-113be569b98f

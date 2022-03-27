@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0d6abafb-55bb-d2d0-610e-ff377147d3aa
 resourcetype: Other
 title: egodoy.wav
 uid: d33b15af-aaa2-92e7-db08-6b72af77209d

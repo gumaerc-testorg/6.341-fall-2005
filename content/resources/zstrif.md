@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0d6abafb-55bb-d2d0-610e-ff377147d3aa
 resourcetype: Other
 title: zstrif.wav
 uid: 7be71554-1775-f415-2b9f-01f34f0b4fb1

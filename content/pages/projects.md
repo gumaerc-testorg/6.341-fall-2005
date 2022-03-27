@@ -26,6 +26,6 @@ Files for Project 2
 Files for Playing Sound on UNIX® Machines
 -----------------------------------------
 
-usound110.m ([M](/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/projects/usound110.m)) plays audio on UNIX® machines at Fs = 11025 Hz.
+usound110.m ([M]({{< baseurl >}}/resources/usound110)) plays audio on UNIX® machines at Fs = 11025 Hz.
 
-usound441.m ([M](/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/projects/usound441.m)) plays audio on UNIX® machines at Fs = 44100 Hz.
+usound441.m ([M]({{< baseurl >}}/resources/usound441)) plays audio on UNIX® machines at Fs = 44100 Hz.

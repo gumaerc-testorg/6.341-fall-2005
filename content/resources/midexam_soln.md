@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c554d79a-3f04-22bc-ecf4-7f40a4c0b17b
 resourcetype: Document
 title: midexam_soln.pdf
 uid: acb89a1e-8dc7-3822-01e3-97f7e6997a00

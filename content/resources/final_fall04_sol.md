@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c554d79a-3f04-22bc-ecf4-7f40a4c0b17b
 resourcetype: Document
 title: final_fall04_sol.pdf
 uid: 620588bd-1cc9-fd78-ef6b-ee7a5907deb5

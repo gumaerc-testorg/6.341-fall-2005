@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c554d79a-3f04-22bc-ecf4-7f40a4c0b17b
 resourcetype: Document
 title: backexam_f04_sol.pdf
 uid: 076fd1f4-0fd0-7560-a918-30a319804ab6
