@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting project file.
-file: /media/courses/6-341-discrete-time-signal-processing-fall-2005/b134b4ca389f15fa809d70af215fcb18_usound110.m
+file: /courses/6-341-discrete-time-signal-processing-fall-2005/b134b4ca389f15fa809d70af215fcb18_usound110.m
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Other
 title: usound110.m
 uid: b134b4ca-389f-15fa-809d-70af215fcb18
 ---
+This is a supporting project file.
+

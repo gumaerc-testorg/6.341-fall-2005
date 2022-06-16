@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The readings section contains readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: aac563f0-008f-8d39-a7cf-5bbe3070cddb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Text and Manuals

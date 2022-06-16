@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The lecture notes section contains the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 3ae7be5e-771e-489e-64b5-7515a7f2ac3c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -34,7 +39,7 @@ Course Overview
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Background Review: Phase, Group Delay, and Generalized Linear Phase ([PDF]({{< baseurl >}}/resources/lec02))
+Background Review: Phase, Group Delay, and Generalized Linear Phase ({{% resource_link c1e8402b-c2d0-d548-fbdc-34e3db8dbf0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +48,7 @@ Background Review: Phase, Group Delay, and Generalized Linear Phase ([PDF]({{< b
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Minimum-phase and All-pass Systems ([PDF]({{< baseurl >}}/resources/lec03))
+Minimum-phase and All-pass Systems ({{% resource_link aa0fbb84-ec39-521a-7a44-e481c7ce0d7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Minimum-phase and All-pass Systems ([PDF]({{< baseurl >}}/resources/lec03))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-DT Processing of CT Signals and CT Processing of DT Signals: Fractional Delay ([PDF]({{< baseurl >}}/resources/lec04))
+DT Processing of CT Signals and CT Processing of DT Signals: Fractional Delay ({{% resource_link b3c3a089-731e-ef02-50a6-eefe1d8c78a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Background Exam
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Sampling Rate Conversion ([PDF]({{< baseurl >}}/resources/lec05))
+Sampling Rate Conversion ({{% resource_link 1b110cd3-8e3c-bd3e-fd56-f43c9ddf8b2a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +84,7 @@ Sampling Rate Conversion ([PDF]({{< baseurl >}}/resources/lec05))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Quantization and Oversampled Noise Shaping ([PDF]({{< baseurl >}}/resources/lec06))
+Quantization and Oversampled Noise Shaping ({{% resource_link 2e04b01f-e707-2772-ba39-f0c8dfb58306 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ Quantization and Oversampled Noise Shaping ([PDF]({{< baseurl >}}/resources/lec0
 7
 {{< tdclose >}}
 {{< tdopen >}}
-IIR, FIR Filter Structures ([PDF]({{< baseurl >}}/resources/lec07))
+IIR, FIR Filter Structures ({{% resource_link 2c6fe95a-4d44-834c-cf0c-0d9017118703 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +102,7 @@ IIR, FIR Filter Structures ([PDF]({{< baseurl >}}/resources/lec07))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Filter Design: IIR Filters ([PDF]({{< baseurl >}}/resources/lec08))
+Filter Design: IIR Filters ({{% resource_link 51e3beff-8c8c-e228-9ba2-92fcdb0040f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +111,7 @@ Filter Design: IIR Filters ([PDF]({{< baseurl >}}/resources/lec08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Filter Design: FIR Filters ([PDF]({{< baseurl >}}/resources/lec09))
+Filter Design: FIR Filters ({{% resource_link e3fd3fd6-02bd-9a2c-91b0-63ce4dc8607b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +120,7 @@ Filter Design: FIR Filters ([PDF]({{< baseurl >}}/resources/lec09))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Multirate Systems and Polyphase Structures ([PDF]({{< baseurl >}}/resources/lec10))
+Multirate Systems and Polyphase Structures ({{% resource_link d97506e5-7614-22fd-7bd4-9a2742247303 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ Multirate Systems and Polyphase Structures ([PDF]({{< baseurl >}}/resources/lec1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Multirate Systems and Polyphase Structures (cont.) ([PDF]({{< baseurl >}}/resources/lec11))
+Multirate Systems and Polyphase Structures (cont.) ({{% resource_link 23887e05-bb83-d893-874e-27d49f7135ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +138,7 @@ Multirate Systems and Polyphase Structures (cont.) ([PDF]({{< baseurl >}}/resour
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Prediction and All-pole Modeling ([PDF]({{< baseurl >}}/resources/lec12))
+Linear Prediction and All-pole Modeling ({{% resource_link ddfc7611-ca6b-2434-54ec-b8bcca8bf604 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ Linear Prediction and All-pole Modeling ([PDF]({{< baseurl >}}/resources/lec12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The Levinson-Durbin Recursion ([PDF]({{< baseurl >}}/resources/lec13))
+The Levinson-Durbin Recursion ({{% resource_link 06e8ddb9-555e-de1b-094f-5dc9d17ea254 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +165,7 @@ Guest Lecture: Gene Frantz
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The Discrete Fourier Transform (DFT) ([PDF]({{< baseurl >}}/resources/lec15))
+The Discrete Fourier Transform (DFT) ({{% resource_link 698998c4-f794-f35e-f0c3-d947ae0d684c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ Midterm Exam
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Filtering with the DFT ([PDF]({{< baseurl >}}/resources/lec16))
+Linear Filtering with the DFT ({{% resource_link 6e5190ef-6e0d-66c7-8bfd-ce2be6ce7125 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +192,7 @@ Linear Filtering with the DFT ([PDF]({{< baseurl >}}/resources/lec16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Spectral Analysis with the DFT ([PDF]({{< baseurl >}}/resources/lec17))
+Spectral Analysis with the DFT ({{% resource_link 7a2c817e-ebc3-562e-82f7-3da7540d3cd1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +201,7 @@ Spectral Analysis with the DFT ([PDF]({{< baseurl >}}/resources/lec17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Periodogram ([PDF]({{< baseurl >}}/resources/lec18))
+Periodogram ({{% resource_link a966195c-3ea5-8814-8220-93eb5840634e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +210,7 @@ Periodogram ([PDF]({{< baseurl >}}/resources/lec18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-FFT Algorithms ([PDF]({{< baseurl >}}/resources/lec19))
+FFT Algorithms ({{% resource_link 4ee39a5e-74c9-f509-9ac5-16ce57215c96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +219,7 @@ FFT Algorithms ([PDF]({{< baseurl >}}/resources/lec19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-The Goertzel Algorithm and the Chirp Transform ([PDF]({{< baseurl >}}/resources/lec20))
+The Goertzel Algorithm and the Chirp Transform ({{% resource_link c5b65e06-d8d1-221f-a68b-23b7f0d23b41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +228,7 @@ The Goertzel Algorithm and the Chirp Transform ([PDF]({{< baseurl >}}/resources/
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Short-time Fourier Analysis ([PDF]({{< baseurl >}}/resources/lec21))
+Short-time Fourier Analysis ({{% resource_link 3634773c-2eb1-7d84-e4f5-de0c1446a374 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +237,7 @@ Short-time Fourier Analysis ([PDF]({{< baseurl >}}/resources/lec21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Modulated Filter Bank ([PDF]({{< baseurl >}}/resources/lec22))
+Modulated Filter Bank ({{% resource_link 9bae63b4-a7d9-ac6b-f534-875e13c06ffd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
