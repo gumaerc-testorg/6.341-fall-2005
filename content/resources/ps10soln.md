@@ -5,6 +5,7 @@ file: /courses/6-341-discrete-time-signal-processing-fall-2005/e7b4a68283528b7b3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for problem set 10.
-

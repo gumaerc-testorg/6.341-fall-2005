@@ -5,6 +5,7 @@ file: /courses/6-341-discrete-time-signal-processing-fall-2005/3bfea5acad9232f54
 file_type: audio/x-wav
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

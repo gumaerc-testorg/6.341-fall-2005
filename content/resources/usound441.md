@@ -5,6 +5,7 @@ file: /courses/6-341-discrete-time-signal-processing-fall-2005/8e975614f866deabc
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: usound441.m
 uid: 8e975614-f866-deab-c81c-b65b3153ad75
 ---
 This is a supporting project file.
-

@@ -5,6 +5,7 @@ file: /courses/6-341-discrete-time-signal-processing-fall-2005/5e40a0a8c8b681ceb
 file_type: application/octet-stream
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting project file.
-
