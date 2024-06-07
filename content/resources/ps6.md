@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems based on design implementation, random
   sequence, and signal.
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/cb21364336a177092f4f347fdb9d4b3a_ps6.pdf
+file_size: 73883
 file_type: application/pdf
 learning_resource_types:
 - Assignments

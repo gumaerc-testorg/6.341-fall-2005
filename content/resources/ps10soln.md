@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions for problem set 10.
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/e7b4a68283528b7b335ffee648598c69_ps10soln.pdf
+file_size: 98215
 file_type: application/pdf
 learning_resource_types:
 - Assignments

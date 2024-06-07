@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/0a2a8fb2afbeec8da9e5f49588c5dbfa_surusc.wav
+file_size: 219068
 file_type: audio/x-wav
 learning_resource_types:
 - Projects
