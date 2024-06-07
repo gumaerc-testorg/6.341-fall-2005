@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting project file.
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/a605d2b2e51d1a604547d61f32116922_projIA.mat
+file_size: 301352
 file_type: application/octet-stream
 learning_resource_types:
 - Projects

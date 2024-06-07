@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/183233060d4168e20222fdaf5deb8415_final_f05_soln.pdf
+file_size: 618050
 file_type: application/pdf
 learning_resource_types:
 - Exams

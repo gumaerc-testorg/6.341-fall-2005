@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture summary.
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/9bae63b4a7d9ac6bf534875e13c06ffd_lec22.pdf
+file_size: 521263
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
