@@ -2,6 +2,7 @@
 content_type: resource
 description: Adobe? Reader? software is required to view this .pdf file.
 file: /courses/6-341-discrete-time-signal-processing-fall-2005/c5b65e06d8d1221fa68b23b7f0d23b41_lec20.pdf
+file_size: 83204
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
