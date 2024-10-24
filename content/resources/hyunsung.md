@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/4b9912574517a820662caa69979aab1b_hyunsung.wav
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/4b9912574517a820662caa69979aab1b_hyunsung.wav
 file_size: 247854
 file_type: audio/x-wav
 learning_resource_types:
