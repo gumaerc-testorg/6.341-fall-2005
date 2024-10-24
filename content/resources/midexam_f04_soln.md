@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/ce4a35141f295d9fef5561419161b90d_midexam_f04_soln.pdf
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/ce4a35141f295d9fef5561419161b90d_midexam_f04_soln.pdf
 file_size: 250704
 file_type: application/pdf
 learning_resource_types:

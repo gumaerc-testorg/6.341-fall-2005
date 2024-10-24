@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/129250df1fee0730292079929588d426_venkatc.wav
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/129250df1fee0730292079929588d426_venkatc.wav
 file_size: 287368
 file_type: audio/x-wav
 learning_resource_types:
