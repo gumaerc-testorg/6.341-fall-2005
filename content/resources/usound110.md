@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting project file.
-file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/b134b4ca389f15fa809d70af215fcb18_usound110.m
+file: /courses/6-341-discrete-time-signal-processing-fall-2005/b134b4ca389f15fa809d70af215fcb18_usound110.m
 file_size: 759
 file_type: text/plain
 learning_resource_types:

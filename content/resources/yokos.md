@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/ad1565c38a6a7161461b924f4cd1fb15_yokos.wav
+file: /courses/6-341-discrete-time-signal-processing-fall-2005/ad1565c38a6a7161461b924f4cd1fb15_yokos.wav
 file_size: 233180
 file_type: audio/x-wav
 learning_resource_types:
