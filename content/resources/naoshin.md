@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/4406e2d6581b28e1d5a8dc1d8040fda0_naoshin.wav
+file: /courses/6-341-discrete-time-signal-processing-fall-2005/4406e2d6581b28e1d5a8dc1d8040fda0_naoshin.wav
 file_size: 322934
 file_type: audio/x-wav
 learning_resource_types:

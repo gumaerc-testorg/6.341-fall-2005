@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/d094b78a8626677cf97718cee5039824_pega85.wav
+file: /courses/6-341-discrete-time-signal-processing-fall-2005/d094b78a8626677cf97718cee5039824_pega85.wav
 file_size: 272130
 file_type: audio/x-wav
 learning_resource_types:

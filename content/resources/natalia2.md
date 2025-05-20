@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/d1661057b670b66e50c917455490c611_natalia2.wav
+file: /courses/6-341-discrete-time-signal-processing-fall-2005/d1661057b670b66e50c917455490c611_natalia2.wav
 file_size: 168826
 file_type: audio/x-wav
 learning_resource_types:
