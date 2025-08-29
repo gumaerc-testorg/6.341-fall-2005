@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on discrete-time system, and LTI
   system.
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/ed5f94e69b96da0a548b4c8c4e6b422b_final_fall04.pdf
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/ed5f94e69b96da0a548b4c8c4e6b422b_final_fall04.pdf
 file_size: 324769
 file_type: application/pdf
 learning_resource_types:

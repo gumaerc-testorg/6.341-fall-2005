@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/8159be0e2e81ba466e4329efba7b72f6_ernestoc.wav
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/8159be0e2e81ba466e4329efba7b72f6_ernestoc.wav
 file_size: 171650
 file_type: audio/x-wav
 learning_resource_types:

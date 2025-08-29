@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems.
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/287b03458dfd86517291e0852203ca4f_ps8.pdf
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/287b03458dfd86517291e0852203ca4f_ps8.pdf
 file_size: 21698
 file_type: application/pdf
 learning_resource_types:

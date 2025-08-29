@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for problem set 6.
-file: /courses/6-341-discrete-time-signal-processing-fall-2005/2565db3b1ab94e140b5d486058ab9abf_ps6soln.pdf
+file: /ol-ocw-studio-app/courses/6-341-discrete-time-signal-processing-fall-2005/2565db3b1ab94e140b5d486058ab9abf_ps6soln.pdf
 file_size: 130247
 file_type: application/pdf
 learning_resource_types:
