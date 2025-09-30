@@ -17,13 +17,13 @@ Text and Manuals
 
 ### Required Text
 
-Oppenheim, A. V., R. W. Schafer, and J. R. Buck. _[Discrete-Time Signal Processing](http://www.amazon.com/gp/product/0137549202/ref=nosim/103-0248726-3839874?n=283155)_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1999. ISBN: 0137549202.
+Oppenheim, A. V., R. W. Schafer, and J. R. Buck. _{{% resource_link "6504c1d4-040b-4a14-8a59-b2b03fc4be00" "Discrete-Time Signal Processing" %}}_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1999. ISBN: 0137549202.
 
-While there's considerable overlap between the second and first editions of the text, there are also important differences. Problems and suggested readings will be keyed to the second edition. Errata for the textbook can be found at the following [Web site](http://www.engineering.uiowa.edu/~dsp/Fall08_files/ErratainOppenheim/Errata_first_printing.pdf).
+While there's considerable overlap between the second and first editions of the text, there are also important differences. Problems and suggested readings will be keyed to the second edition. Errata for the textbook can be found at the following {{% resource_link "426c50dd-72bf-46b3-a646-b70c95520693" "Web site" %}}.
 
 Also, some of you may find the following MATLAB® exercise book to be a useful reference, although we will not use it directly in any way:
 
-McClellan, J. H., et al. [_Computer-Based Exercises for Signal Processing Using MATLAB® 5_](http://www.amazon.com/gp/product/0137890095/ref=nosim/103-0248726-3839874?n=283155). Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0137890095.
+McClellan, J. H., et al. {{% resource_link "4cc504b5-e9a5-47af-a8c2-2b622a8a4cd3" "_Computer-Based Exercises for Signal Processing Using MATLAB® 5_" %}}. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 0137890095.
 
 In addition to providing opportunities for hands-on practice with the ideas and concepts developed in class, this book contains a variety of MATLAB® tips that may be useful to you in undertaking the class projects. However, purchase of this reference is optional.
 
@@ -53,15 +53,15 @@ Oppenheim, A. V., and R. W. Schafer. "From Frequency to Quefrency: A History of 
 Recommended Readings
 --------------------
 
-Parks, T. W., and C. S. Burrus. [_Digital Filter Design_](http://www.amazon.com/gp/product/0471828963/ref=nosim/103-0248726-3839874?n=283155). New York, NY: Wiley, 1987. ISBN: 0471828963.
+Parks, T. W., and C. S. Burrus. {{% resource_link "d6f1a589-090c-4159-b35e-7f456df970be" "_Digital Filter Design_" %}}. New York, NY: Wiley, 1987. ISBN: 0471828963.
 
 This book includes thorough discussions of digital filter design methods and shows and explains derivations, or gives bibliographic references to other literature (e.g. technical papers) which include derivations.
 
-Crochiere, Ronald E., and Lawrence R. Rabiner. [_Multirate Digital Signal Processing_](http://www.amazon.com/gp/product/0136051626/ref=nosim/103-0248726-3839874?n=283155). Englewood Cliffs, NJ: Prentice Hall, 1983. ISBN: 0136051626.
+Crochiere, Ronald E., and Lawrence R. Rabiner. {{% resource_link "3aa041b6-f527-46eb-aa71-77cedd333c02" "_Multirate Digital Signal Processing_" %}}. Englewood Cliffs, NJ: Prentice Hall, 1983. ISBN: 0136051626.
 
 This book includes detailed discussions of implementation issues associated with multirate systems, such as efficient polyphase structures, and design techniques for decimation and especially interpolation filters. This book either shows and explains derivations, or gives bibliographic references to other literature (e.g. technical papers) which include derivations.
 
-Hayes, Monson B. [_Statistical Digital Signal Processing and Modeling_](http://www.amazon.com/gp/product/0471594318/ref=nosim/103-0248726-3839874?n=283155). New York, NY: John Wiley and Sons, 1996. ISBN: 0471594318.
+Hayes, Monson B. {{% resource_link "95482b8b-c125-48f3-bd17-4afe811ebc46" "_Statistical Digital Signal Processing and Modeling_" %}}. New York, NY: John Wiley and Sons, 1996. ISBN: 0471594318.
 
 This book provides a comprehensive treatment of signal processing algorithms for modeling discrete-time signals, designing optimal digital filters, estimating the power spectrum of a random process, and designing and implementing adaptive filters. The material is presented very clearly, with an abundance of applications, and MATLAB® code for the algorithms.
 
@@ -69,6 +69,6 @@ Lim, Jae S., and Alan V. Oppenheim, eds. _Advanced Topics in Signal Processing_.
 
 The books covers the following topics: parametric signal modeling, spectral estimation, multirate signal processing, efficient Fourier transform and convolution algorithms, adaptive signal processing, short-time Fourier transform, 2D signal processing, and some topics in filter design.
 
-Proakis, John G., and Dimitris G. Manolakis. [_Digital Signal Processing: Principles, Algorithms, and Applications_](http://www.amazon.com/gp/product/0133737624/ref=nosim/103-0248726-3839874?n=283155). Upper Saddle River, NJ: Prentice Hall, 1996. ISBN: 0133737624.
+Proakis, John G., and Dimitris G. Manolakis. {{% resource_link "1d3288ab-dff0-4223-b23f-398d362c0c6d" "_Digital Signal Processing: Principles, Algorithms, and Applications_" %}}. Upper Saddle River, NJ: Prentice Hall, 1996. ISBN: 0133737624.
 
 This is an introductory DSP book used in some universities instead of Oppenheim and Schafer.
